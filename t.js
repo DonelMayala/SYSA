@@ -1,4 +1,4 @@
-h = '***';
+h = location.origin;
 function setTimer(timePicker) {
     leo = new Date().toDateString();
     var date2 = new Date();
